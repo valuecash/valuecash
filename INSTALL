@@ -1,0 +1,9 @@
+Building Valuecash
+
+See doc/readme-qt.rst for instructions on building Valuecash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Valuecash.
+
+See doc/build-*.txt for instructions on building valuecashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Valuecash.
